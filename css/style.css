@@ -1,0 +1,89 @@
+.name {
+    background-color: dodgerblue;
+    color: white;
+    margin-top: 50px;
+    text-align: right
+}
+
+.container
+{
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+.contact_list
+{
+    list-style-type: square;
+}
+.paragraph_title
+{
+    color: dodgerblue;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.about_myself
+{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.about_myself
+{
+    line-height: 15px;
+}
+
+.skills
+{
+    background-color: darkgrey;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 2px;
+
+}
+.speciality
+{
+    font-style: oblique;
+}
+.description
+{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+.name_company
+{
+color: orange;
+}
+.work_list
+{
+    list-style-type: square;
+}
+.position
+{
+    color: darkblue;
+}
+.education_list
+{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+}
+.we_period
+{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+}
+.we_description
+{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+}
